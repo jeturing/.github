@@ -38,20 +38,6 @@ We love community involvement! Here’s how you can get started:
 
 Below are important links to help you understand and use our projects:
 
-- 📘 **Documentation:** *(Link to docs if available)*  
-  https://github.com/jeturing/docs
-
-- 💬 **Community Discussions:** *(Link if available)*  
-  https://github.com/jeturing/community
-
-- 🛠 **Core Platform:**  
-  https://github.com/jeturing/jeturing
-
-- 📦 **Stripe Terminal / Integrations:**  
-  https://github.com/jeturing/Jeturing_Pay
-
-*(Replace placeholder links with real ones if they exist.)*
-
 ---
 
 ## 🍿 Fun Facts

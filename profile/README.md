@@ -93,9 +93,4 @@ Team traditions vary, but here are some things you might enjoy:
 ---
 
 ## 🔝 Repositorios Públicos Destacados
-
-```md
-![](https://github-readme-stats.vercel.app/api/pin/?username=jeturing&repo=jeturing&theme=radical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=jeturing&repo=Jeturing_Pay&theme=radical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=jeturing&repo=odoo-19&theme=radical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=jeturing&repo=teleport&theme=radical)
+ 
